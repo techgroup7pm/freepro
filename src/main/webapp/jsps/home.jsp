@@ -8,8 +8,8 @@
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
-<body bgcolor= 'gray'>
-<h1 align="center">Welcome to TECHPRAGNA</h1>
+<body bgcolor= 'blue'>
+<h1 align="center">TECHPRAGNA</h1>
 <h1 align="center"> Techpragna Solutions- Very Good Training center for DevOps with AWS in Jayanagar Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
